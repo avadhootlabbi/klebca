@@ -1,0 +1,35 @@
+.logo{
+    justify-content: left;
+    height: 35px;
+    width: 35px;
+    display: flex;
+    padding-right: 90px;
+}
+
+.logo a {
+    text-decoration: none;
+    text-align: left;
+    
+}
+
+.nav{
+    display: flex;
+    justify-content: flex-end;
+   position: fixed;
+    padding: 10px;
+
+}
+
+.nav a {
+    color: rgb(0, 0, 0);
+    padding: 7px 10px;
+    text-decoration: none;
+    text-align: center;
+}
+.nav-container{
+  margin-left: 650px;
+}
+
+.container{
+    display: flex;
+}
