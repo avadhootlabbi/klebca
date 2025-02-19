@@ -1,0 +1,54 @@
+.svg{
+    height:110px;
+    width:110px;
+    fill:rgb(255, 0, 0);
+    text-align: left;
+}
+.nav{
+     text-align: center; 
+     padding:25px;     
+    color: black;          
+    background-color: rgb(126, 117, 115); 
+                        
+}                                     
+
+.login-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+}
+.login-button:hover {
+    background-color: #0056b3;
+}
+.card-container{
+    display: flex;
+}
+.product{
+    padding: 10px;
+}
+            
+
+    
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #c7cfc7;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+
